@@ -1,3 +1,3 @@
-## JOKENPO
-### A simple API application of gamer Jokenpo.
+### JOKENPO API
+A simple API application of gamer Jokenpo.
 
