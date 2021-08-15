@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Jokenpo-API</name>
+    </assembly>
+    <members>
+        <member name="M:Jokenpo_API.Controllers.JokenpoController.LetsGoJokenpo(Jokenpo_API.Models.Choice)">
+            <summary>
+            Let's Play? Choose an option between: Rock, Paper and Scissors.
+            </summary>
+            <param name="choiceUser"></param>
+            <remarks>
+            POST api/jokenpo
+            {
+                "choisesUser": "Rock"
+            }
+            </remarks>
+        </member>
+    </members>
+</doc>
