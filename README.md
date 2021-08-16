@@ -9,5 +9,6 @@ Game rule:
 * Paper wins from rock and loses to scissors;
 * Scissors wins from paper and loses to rock.
 
-As the image below:
-![Test Image1]http://ecor.ib.usp.br/lib/exe/fetch.php?w=200&tok=d33c7a&media=01_curso_atual:alunos:trabalho_final:lidiayano:jokenpo.png
+The results are messages informing if the user won, lost or tied with the App, also showing the choice made by the app.
+
+The application is a REST type API developed in ASP.Net Core 5.
