@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/Jokenpo-API.csproj": {}
+    "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/Jokenpo-API.csproj": {}
   },
   "projects": {
-    "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/Jokenpo-API.csproj": {
+    "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/Jokenpo-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/Jokenpo-API.csproj",
+        "projectUniqueName": "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/Jokenpo-API.csproj",
         "projectName": "Jokenpo-API",
-        "projectPath": "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/Jokenpo-API.csproj",
+        "projectPath": "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/Jokenpo-API.csproj",
         "packagesPath": "/Users/flaviodemoraesfreire/.nuget/packages/",
-        "outputPath": "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/obj/",
+        "outputPath": "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/flaviodemoraesfreire/.config/NuGet/NuGet.Config"

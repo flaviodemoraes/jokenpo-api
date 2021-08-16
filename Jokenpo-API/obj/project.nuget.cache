@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OICB+jEuj0hgKqCxXRAglSnlT2taCkHOgKpMZk4GNlU5DcbZ6Ue14dkatXjDFcg6FqseQ+CwDlQkBcWxX2tS+g==",
+  "dgSpecHash": "2v/9qTsocPMujNPfKj8vLcWf9Ew790icO3XeVcYC2TqcJYiiAsp7dgP3rxrDudZEdCLZ1m1QM4QcBvcu+xRzAg==",
   "success": true,
-  "projectFilePath": "/Users/flaviodemoraesfreire/Projects/Jokenpo-API/Jokenpo-API/Jokenpo-API.csproj",
+  "projectFilePath": "/Users/flaviodemoraesfreire/Projects/jokenpo-api/Jokenpo-API/Jokenpo-API.csproj",
   "expectedPackageFiles": [
     "/Users/flaviodemoraesfreire/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.0/microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
     "/Users/flaviodemoraesfreire/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",

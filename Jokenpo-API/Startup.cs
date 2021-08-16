@@ -45,8 +45,8 @@ namespace Jokenpo_API
                     Contact = new OpenApiContact
                     {
                         Name = "Flávio Freire",
-                        Email = string.Empty,
-                        Url = new Uri("https://twitter.com/flaviodemoraes"),
+                        Email = "flaviodemoraes@outlook.com",
+                        Url = new Uri("https://twitter.com/flaviodemoraesf"),
                     }
                 });
 

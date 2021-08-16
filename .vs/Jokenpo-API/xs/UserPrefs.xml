@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C544C65A-942E-40D2-B9DF-41A722CAF17F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jokenpo-API/Startup.cs">
+    <Files>
+      <File FileName="Jokenpo-API/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jokenpo-API" expanded="True">
+            <Node name="Jokenpo-API" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jokenpo-API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
