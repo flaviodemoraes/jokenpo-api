@@ -10,4 +10,5 @@ Game rule:
 * Scissors wins from paper and loses to rock.
 
 As the image below:
-![image](https://user-images.githubusercontent.com/3965267/129499033-45ecd8fb-dd62-45c8-9686-2f7bb3aba0b7.png)
+<img src=˜https://www.google.com/url?sa=i&url=http%3A%2F%2Fecor.ib.usp.br%2Fdoku.php%3Fid%3D05_curso_antigo%3Ar2019%3Aalunos%3Atrabalho_final%3Alidiayano%3Astart&psig=AOvVaw2Xbh8WXhMRjE_xc04VnYkC&ust=1629161683570000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDVncOqtPICFQAAAAAdAAAAABAD" alt=""/>
+˜
